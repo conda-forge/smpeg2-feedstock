@@ -3,7 +3,7 @@ About smpeg2
 
 Home: https://www.libsdl.org/
 
-Package license: GPLv2
+Package license: GPL-2.0-only
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/smpeg2-feedstock/blob/main/LICENSE.txt)
 
