@@ -24,8 +24,6 @@ requirements:
   host:
     - pkgconfig  # [unix]
     - sdl2
-  run:
-    - sdl2
 
 test:
   requires:
